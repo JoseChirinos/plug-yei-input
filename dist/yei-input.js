@@ -1,4 +1,4 @@
-const yei = function(config){
+var yei = function(config){
   this.config = {
     element: '',
     placeholder: 'Buscar',
