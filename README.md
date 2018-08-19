@@ -1,15 +1,13 @@
-# Yei Input
-
-<div align="center">
+<div>
   <img src="static/yei.png">
-  <small><p>Buscador con Imagen de Previsualización</p></small>
 </div>
+
+## Yei Input
 
 Yei Input, es un plugin para realizar busquedas con previsualización de imagenes.
 
-<div align="center">
+<div>
   <img src="static/yei-preview.gif">
-  <small><p>Preview del Resultado Final</p></small>
 </div>
 
 ### [Ver Live Preview](https://josechirinos.github.io/plug-yei-input/)
