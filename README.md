@@ -52,7 +52,7 @@ Yei Input, es un plugin para realizar busquedas con previsualización de imagene
 2. Iniciar Yei.
 ```js
   var yeiInput = new yei({
-    element: "yei-input",
+    element: "#yei-input",
     placeholder: "Buscar...",
     key:['name'],
     list:datos, // arraylist con objetos
@@ -88,7 +88,7 @@ Yei Input, es un plugin para realizar busquedas con previsualización de imagene
 
     ```js
       var yeiInput = new yei({
-        element: "yei-input",
+        element: "#yei-input",
         placeholder: "Buscar...",
         key:['name', 'year'], // indicamos que se enfoque en name y year
         list:datos, 
